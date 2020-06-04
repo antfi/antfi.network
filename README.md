@@ -1,2 +1,2 @@
 # antfi.network
-Antfi website
+This repository holds antfi's webpage
